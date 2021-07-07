@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luisjavierglb
-- 👀 I’m interested in Android & Flutter
+- 👀 I’m interested and proficient in Android & Flutter
 - 🌱 I’m currently learning Swift for iOS Development
-- 💞️ I’m looking to collaborate on Flutter and iOS Projects
+- 💞️ I’m looking to collaborate on Flutter, Android and iOS Projects
 - 📫 How to reach me : luisjavier.torres@globant.com
 
 <!---
